@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya-768&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aditya-768&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
